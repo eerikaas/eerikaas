@@ -6,7 +6,7 @@
 ### 👋 About Me:
 - Studying in a degree programme in Information and Communication Technology✍️ 
 - Working as a biomedical scientist in laboratory of pathology👨‍🔬 
-- Don't take my little projects too seriously (because definitely I don't) 🤣
+- Don't take my little projects too seriously (because I definitely don't) 🤣
 - Would like to learn more about full stack development 🤔
 
 																																								
