@@ -1,6 +1,5 @@
-<div id="header" align="center">
+
 <img src="https://media.giphy.com/media/fSe277unKt9XavTE5W/giphy.gif" width="300"/>
-</div>
                                                                                                                
 ---
 																																																							 
@@ -21,7 +20,7 @@
 ---
 
 ### Actual footage of me coding:
-<img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="160"/>
-<img src="https://media.giphy.com/media/lzz3B3xLZluuY/giphy-downsized-large.gif" width="255"/>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/lzz3B3xLZluuY/giphy-downsized-large.gif" width="300"/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="210"/>
 
