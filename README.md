@@ -21,7 +21,7 @@
 ---
 
 ### Actual footage of me coding:
-<img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="260"/>
-<img src="https://media.giphy.com/media/lzz3B3xLZluuY/giphy-downsized-large.gif" width="355"/>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="160"/>
+<img src="https://media.giphy.com/media/lzz3B3xLZluuY/giphy-downsized-large.gif" width="255"/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
 
